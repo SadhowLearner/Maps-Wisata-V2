@@ -1,0 +1,23 @@
+.roboto-s-r {
+    font-family: 'Roboto Slab', serif;
+    font-weight: regular;
+}
+
+.roboto-b {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+.text-box {
+    background-color: #D9D9D9;
+    width: 80%;
+    border-radius: 10px;
+    aspect-ratio: 16/2;
+    display: flex;
+    padding-left: 20px;
+    align-items: center;
+}
+
+* {
+    text-decoration: none;
+}
